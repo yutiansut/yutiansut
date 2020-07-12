@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
 
-- 🔭 QUANTAXIS(https://github.com/quantaxis/quantaxis)作者
-- 🌱 I’m currently learning rust/python/javascript/dart/go
-- 👯 I’m currently working in BLEX
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about: QUANT
-- 📫 How to reach me: wechat_id: quantaxispro
+
+- 🔭 [QUANTAXIS](https://github.com/quantaxis/quantaxis) 作者
+- 🌱 正在学习/常用语言 rust/python/javascript/dart/go
+- 👯 工作于 杭州波粒二象资产管理有限公司/宽塔科斯信息技术有限公司
+- 💬 主要方向: 量化交易/组合管理/风险控制
+- 📫 微信ID: quantaxispro
 
