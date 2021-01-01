@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 [QUANTAXIS](https://github.com/quantaxis/quantaxis) 作者
+- 🌱 常用语言 rust/python/javascript/dart/go
+- 👯 杭州波粒二象资产管理有限公司/宽塔科思信息技术有限公司 CTO 
+
+- 💬 主要方向: 量化交易/组合管理/风险控制
+- 📫 微信ID: quantaxispro  QQ: 279336410   EMAIL: yutiansut@blexcapital.com
+
+
 
 ## 致力于基于自身的实际交易和社区的需求 提供完整的 跨市场 多账户 多策略 的 完整解决方案
 
@@ -28,15 +36,6 @@
 - 消息队列 -> qapubsub
 - 自定义线程  -> quantaxis.QAThread
 - 可视化  -> vifi协议, qamazing客户端
-
-
-
-- 🔭 [QUANTAXIS](https://github.com/quantaxis/quantaxis) 作者
-- 🌱 常用语言 rust/python/javascript/dart/go
-- 👯 杭州波粒二象资产管理有限公司/宽塔科思信息技术有限公司 CTO 
-
-- 💬 主要方向: 量化交易/组合管理/风险控制
-- 📫 微信ID: quantaxispro  QQ: 279336410   EMAIL: yutiansut@blexcapital.com
 
 
 
