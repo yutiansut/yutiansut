@@ -26,7 +26,6 @@ jobs:
           plugins_errors_fatal: yes
           plugin_posts: yes
           plugin_posts_source: dev.to      # External source
-          plugin_people_user: .github.user # Use same username as GitHub login
           plugin_stargazers: yes
           plugin_achievements: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
