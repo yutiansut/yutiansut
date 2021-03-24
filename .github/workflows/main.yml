@@ -1,7 +1,7 @@
 name: GitHub metrics
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "* * * * *"
   push:
     branches:
       - main
@@ -17,10 +17,12 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: "header, activity"
+          base: "header, activity, community, repositories, metadata"
           plugin_habits: yes
           plugin_habits_from: 300
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugins_errors_fatal: yes
           config_timezone: Asia/Shanghai
+
+
