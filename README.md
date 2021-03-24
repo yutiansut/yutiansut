@@ -7,7 +7,7 @@
 - 💬 主要方向: 量化交易/组合管理/风险控制
 - 📫 微信ID: quantaxispro  QQ: 279336410   EMAIL: yutiansut@blexcapital.com
 
-
+![metrics.svg](metrics.svg)
 
 ## 致力于基于自身的实际交易和社区的需求 提供完整的 跨市场 多账户 多策略 的 完整解决方案
 
