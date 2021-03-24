@@ -1,11 +1,10 @@
 name: GitHub metrics
 on:
-  schedule:
-    - cron: "* * * * *"
-  push:
-    branches:
-      - main
 
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
 jobs:
   github-metrics-personal:
     runs-on: ubuntu-latest
