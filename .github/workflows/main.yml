@@ -23,28 +23,12 @@ jobs:
           plugin_habits_from: 300
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugins_errors_fatal: yes
-          plugin_posts: yes
-          plugin_posts_source: dev.to      # External source
           plugin_stargazers: yes
           plugin_achievements: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
           plugin_achievements_secrets: yes       # Display unlocked secrets achievements
           plugin_achievements_ignored: octonaut  # Hide octonaut achievement
-          plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
-          plugin_people: yes
-          plugin_people_types: followers, thanks     # Display followers and "thanks" sections
-          plugin_people_limit: 28                    # Limit to 28 entries per section
-          plugin_people_size: 28                     # Size in pixels of displayed avatars
-          plugin_people_identicons: no               # Use avatars (do not use identicons)
-          plugin_people_thanks: lowlighter, octocat  # Users that will be displayed in "thanks" section
-          plugin_people_sponsors_custom: octocat     # Users that will be displayed additionally in "sponsors" section
-          plugin_people_shuffle: yes                 # Shuffle for varied output
-          plugin_contributors: yes
-          plugin_contributors_base: ""           # Base reference (commit, tag, branch, etc.)
-          plugin_contributors_head: master       # Head reference (commit, tag, branch, etc.)
-          plugin_contributors_ignored: bot       # Ignore "bot" user
-          plugin_contributors_contributions: yes # Display number of contributions for each contributor
+          plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params              # Shuffle for varied output
           config_timezone: Asia/Shanghai
 
 
