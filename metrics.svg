@@ -1341,8 +1341,10 @@
                         16
                     </div>
                     <div class="entry">
-                        <span class="value"></span>
-                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        <span class="value">
+                            1
+                        </span>
+                        <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         17
                     </div>
                     <div class="entry">
@@ -1407,9 +1409,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                9
+                                10
                             </span>
-                            <div class="bar" style="height: 32.142857142857146px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 35.714285714285715px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
@@ -1451,25 +1453,25 @@
                             <span class="name">
                                 TeX
                             </span>
-                            <div class="bar" style="width: 33.352%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 34.032%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">
-                                42%
+                                43%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 HTML
                             </span>
-                            <div class="bar" style="width: 30.36%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 29.92%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">
-                                38%
+                                37%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 Rust
                             </span>
-                            <div class="bar" style="width: 11.520000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 11.352%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 14%
                             </span>
@@ -1478,7 +1480,7 @@
                             <span class="name">
                                 Batchfile
                             </span>
-                            <div class="bar" style="width: 2.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 3%
                             </span>
@@ -1487,7 +1489,7 @@
                             <span class="name">
                                 Python
                             </span>
-                            <div class="bar" style="width: 2.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 3%
                             </span>
@@ -3994,7 +3996,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.77351360270803 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.77557389754566 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4185,7 +4187,7 @@
                     These metrics include private contributions, timezone Asia/Shanghai
                 </span>
                 <span>
-                    Last updated Tue, 06 Apr 2021 09:04:38 GMT with lowlighter/metrics@3.6.0
+                    Last updated Tue, 06 Apr 2021 09:39:38 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
