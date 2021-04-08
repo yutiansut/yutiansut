@@ -1222,7 +1222,7 @@
                             Use spaces for indents
                         </li>
                         <li>
-                            Mostly push code around 09:00
+                            Mostly push code around 11:00
                         </li>
                         <li>
                             Mostly active on tuesday
@@ -1290,9 +1290,9 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            4
+                            1
                         </span>
-                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         09
                     </div>
                     <div class="entry">
@@ -1425,9 +1425,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                5
+                                2
                             </span>
-                            <div class="bar" style="height: 22.727272727272727px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 9.090909090909092px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Thu
                         </div>
                         <div class="entry">
@@ -1455,7 +1455,7 @@
                             <span class="name">
                                 TeX
                             </span>
-                            <div class="bar" style="width: 33.456%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 33.879999999999995%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">
                                 42%
                             </span>
@@ -1464,16 +1464,16 @@
                             <span class="name">
                                 Python
                             </span>
-                            <div class="bar" style="width: 18.080000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 17.296%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
-                                23%
+                                22%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 HTML
                             </span>
-                            <div class="bar" style="width: 14.44%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 14.624000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 18%
                             </span>
@@ -1482,7 +1482,7 @@
                             <span class="name">
                                 Rust
                             </span>
-                            <div class="bar" style="width: 10.527999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 10.664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 13%
                             </span>
@@ -1491,7 +1491,7 @@
                             <span class="name">
                                 Batchfile
                             </span>
-                            <div class="bar" style="width: 2.56%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.5920000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 3%
                             </span>
@@ -1500,7 +1500,7 @@
                             <span class="name">
                                 Jupyter Notebook
                             </span>
-                            <div class="bar" style="width: 0.9359999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.944%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 1%
                             </span>
@@ -4007,7 +4007,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.91409496657788 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.91646948341579 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4198,7 +4198,7 @@
                     These metrics include private contributions, timezone Asia/Shanghai
                 </span>
                 <span>
-                    Last updated Thu, 08 Apr 2021 00:47:59 GMT with lowlighter/metrics@3.6.0
+                    Last updated Thu, 08 Apr 2021 01:28:43 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
