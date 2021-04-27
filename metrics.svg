@@ -3952,7 +3952,7 @@
                                 <div class="title">
                                     Super influencer
                                     <span class="gh">
-                                        ranked 3.67k out of 70m users
+                                        ranked 3.68k out of 70m users
                                     </span>
                                 </div>
                                 <div class="text">
@@ -3970,7 +3970,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="34.57474423503297 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="34.57671966619102 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4007,7 +4007,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.082 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.051 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -4034,7 +4034,7 @@
                                     </span>
                                 </div>
                                 <div class="text">
-                                    Maintaining a repository with 5422 stars
+                                    Maintaining a repository with 5421 stars
                                 </div>
                             </div>
                         </div>
@@ -4210,7 +4210,7 @@
                     These metrics include private contributions, timezone Asia/Shanghai
                 </span>
                 <span>
-                    Last updated Tue, 27 Apr 2021 14:05:07 GMT with lowlighter/metrics@3.7.0
+                    Last updated Tue, 27 Apr 2021 14:37:38 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
