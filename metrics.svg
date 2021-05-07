@@ -3921,7 +3921,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.39630210052003 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.39860910172501 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3957,7 +3957,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.043 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.074000000000002 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3981,11 +3981,11 @@
                   Super maintainer
                   
                     <span class="gh">
-                      ranked 4.49k out of 227m repositories
+                      ranked 4.48k out of 228m repositories
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 5453 stars</div>
+                                <div class="text">Maintaining a repository with 5454 stars</div>
                             </div>
                         </div>
                         <div class="achievement b">
@@ -4030,7 +4030,7 @@
                   Great inspirationer
                   
                     <span class="gh">
-                      ranked 74.6k out of 227m repositories
+                      ranked 74.6k out of 228m repositories
                     </span>
                   
                 </div>
@@ -4154,7 +4154,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Asia/Shanghai</span>
-                <span>Last updated Fri, 07 May 2021 06:13:40 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Fri, 07 May 2021 06:52:43 GMT with lowlighter/metrics@3.8.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
