@@ -3917,7 +3917,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="36.13592663473491 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="36.13783637962963 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3953,7 +3953,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.128 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.158999999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3981,7 +3981,7 @@
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 5488 stars</div>
+                                <div class="text">Maintaining a repository with 5489 stars</div>
                             </div>
                         </div>
                         <div class="achievement b">
@@ -4150,7 +4150,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Asia/Shanghai</span>
-                <span>Last updated Sat, 15 May 2021 23:14:13 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Sat, 15 May 2021 23:46:24 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
