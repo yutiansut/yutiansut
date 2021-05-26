@@ -3916,7 +3916,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="37.03543077007231 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="37.03797664114029 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4025,7 +4025,7 @@
                   Great inspirationer
                   
                     <span class="gh">
-                      ranked 73.8k out of 231m repositories
+                      ranked 73.9k out of 231m repositories
                     </span>
                   
                 </div>
@@ -4149,7 +4149,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Asia/Shanghai</span>
-                <span>Last updated Wed, 26 May 2021 13:26:42 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Wed, 26 May 2021 14:08:52 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
