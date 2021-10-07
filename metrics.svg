@@ -1675,12 +1675,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 79.90190383994837%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.94700786166263%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">100%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.09809616005162955%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.05299213833737166%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -4423,7 +4423,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 08/10/2021, 05:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 08/10/2021, 05:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
