@@ -1736,22 +1736,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 78.2373150350694%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 78.23740980518662%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">98%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 0.9641073941474974%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.9640555592634615%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 0.7929412506326955%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.7928986184342255%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.005636320150400753%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.005636017115694083%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -4475,7 +4475,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2021, 19:15:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 27 Dec 2021, 19:40:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
