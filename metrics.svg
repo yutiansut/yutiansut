@@ -398,13 +398,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 58.087600246761255%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">73%</span>
+                            <div class="bar" style="width: 56.50793650793651%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">71%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 21.91239975323874%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">27%</span>
+                            <div class="bar" style="width: 23.492063492063494%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">29%</span>
                         </div>
                     </div>
                 </section>
@@ -2911,7 +2911,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.106 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.11375 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2936,7 +2936,7 @@
                                     maintainer
                                     <span class="gh">ranked 4.27k out of 281m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 6304 stars</div>
+                                <div class="text">Maintaining a repository with 6305 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3102,7 +3102,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2022, 12:14:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 10 Feb 2022, 12:44:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
