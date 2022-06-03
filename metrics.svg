@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            46194 Commits
+                            46160 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -393,27 +393,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Jupyter Notebook</span>
-                                <div class="bar" style="width: 35.17038615962734%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">44%</span>
+                                <div class="bar" style="width: 37.13438974821627%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">46%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 30.066794682151027%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">38%</span>
+                                <div class="bar" style="width: 27.278397819264775%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">34%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 4.420760558980531%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.667627043832972%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TeX</span>
-                                <div class="bar" style="width: 0.15931496403009895%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.16821151579529414%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.009738977039902242%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.010282826225087185%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3145,7 +3145,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2022, 05:03:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 4 Jun 2022, 05:33:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
