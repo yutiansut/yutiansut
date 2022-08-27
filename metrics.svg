@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 1134 users
+                            Followed by 1135 users
                         </div>
                     </section>
                     <section>
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    7621 Stargazers
+                                    7622 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -393,12 +393,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Jupyter Notebook</span>
-                                <div class="bar" style="width: 67.53783534261736%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 67.53773461084131%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">84%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 12.434601944006527%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 12.43470271689198%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">16%</span>
                             </div>
                         </div>
@@ -2442,62 +2442,62 @@
                             </div>
                             <div class="entry">
                                 <span class="value">7.60k</span>
-                                <div class="bar" style="height: 7.023809523809524px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 6.8181818181818175px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 15
                             </div>
                             <div class="entry">
                                 <span class="value">7.60k</span>
-                                <div class="bar" style="height: 9.285714285714286px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 8.977272727272725px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 16
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 9.285714285714286px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 8.977272727272725px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 17
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 9.285714285714286px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 8.977272727272725px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 18
                             </div>
                             <div class="entry">
                                 <span class="value">7.61k</span>
-                                <div class="bar" style="height: 13.80952380952381px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 13.295454545454547px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 19
                             </div>
                             <div class="entry">
                                 <span class="value">7.61k</span>
-                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 17.613636363636363px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 20
                             </div>
                             <div class="entry">
                                 <span class="value">7.61k</span>
-                                <div class="bar" style="height: 22.857142857142854px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 21.93181818181818px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 21
                             </div>
                             <div class="entry">
                                 <span class="value">7.61k</span>
-                                <div class="bar" style="height: 29.642857142857142px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 28.409090909090907px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 22
                             </div>
                             <div class="entry">
                                 <span class="value">7.62k</span>
-                                <div class="bar" style="height: 36.42857142857143px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 34.88636363636364px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 23
                             </div>
                             <div class="entry">
                                 <span class="value">7.62k</span>
-                                <div class="bar" style="height: 38.69047619047619px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 37.04545454545455px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 24
                             </div>
                             <div class="entry">
                                 <span class="value">7.62k</span>
-                                <div class="bar" style="height: 43.21428571428571px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 41.36363636363637px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 25
                             </div>
                             <div class="entry">
                                 <span class="value">7.62k</span>
-                                <div class="bar" style="height: 47.73809523809524px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 45.68181818181819px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 26
                             </div>
                             <div class="entry">
@@ -2577,8 +2577,8 @@
                                 26
                             </div>
                             <div class="entry">
-                                <span class="value">+1</span>
-                                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">+2</span>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 27
                             </div>
                         </div>
@@ -2869,7 +2869,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.846666666666668 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.95 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2906,9 +2906,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 3.58k out of 96m users</span>
+                                    <span class="gh">ranked 3.57k out of 96m users</span>
                                 </div>
-                                <div class="text">Followed by 1134 users</div>
+                                <div class="text">Followed by 1135 users</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3023,7 +3023,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.2835 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.291250000000002 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3048,7 +3048,7 @@
                                     maintainer
                                     <span class="gh">ranked 4.39k out of 336m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 6714 stars</div>
+                                <div class="text">Maintaining a repository with 6715 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3168,7 +3168,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2022, 01:35:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 28 Aug 2022, 02:03:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
