@@ -393,13 +393,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Vue</span>
-                                <div class="bar" style="width: 76.12255495932145%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">95%</span>
+                                <div class="bar" style="width: 76.79358717434869%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">96%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 3.683572788644625%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 3.046092184368738%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
@@ -3036,7 +3036,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.43k out of 352m repositories</span>
+                                    <span class="gh">ranked 4.44k out of 352m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6814 stars</div>
                             </div>
@@ -3158,7 +3158,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2022, 18:38:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 27 Oct 2022, 19:03:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
