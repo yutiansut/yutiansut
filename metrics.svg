@@ -2926,7 +2926,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 3.76k out of 103m users</span>
+                                    <span class="gh">ranked 3.77k out of 103m users</span>
                                 </div>
                                 <div class="text">Followed by 1173 users</div>
                             </div>
@@ -3188,7 +3188,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2022, 17:33:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 26 Nov 2022, 18:03:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
