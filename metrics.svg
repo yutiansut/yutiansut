@@ -215,7 +215,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 55.6 characters per line of code written</li>
+                        <li>Has approximately 54.9 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -2739,7 +2739,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     inspirer
-                                    <span class="gh">ranked 2.36k out of 200m repositories</span>
+                                    <span class="gh">ranked 2.36k out of 192m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2935 times</div>
                             </div>
@@ -3038,7 +3038,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.93k out of 200m repositories</span>
+                                    <span class="gh">ranked 4.93k out of 192m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7985 stars</div>
                             </div>
@@ -3193,7 +3193,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jun 2024, 11:04:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jun 2024, 11:35:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
