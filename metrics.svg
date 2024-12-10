@@ -2893,7 +2893,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.09k out of 220m repositories</span>
+                                    <span class="gh">ranked 5.09k out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8259 stars</div>
                             </div>
@@ -3048,7 +3048,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Dec 2024, 04:35:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Dec 2024, 05:03:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
