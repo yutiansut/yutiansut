@@ -2673,7 +2673,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 1.31k out of 157m users</span>
+                                    <span class="gh">ranked 1.31k out of 154m users</span>
                                 </div>
                                 <div class="text">Published 1743 public repositories</div>
                             </div>
@@ -2757,7 +2757,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 4.42k out of 157m users</span>
+                                    <span class="gh">ranked 4.42k out of 154m users</span>
                                 </div>
                                 <div class="text">Followed by 1589 users</div>
                             </div>
@@ -2905,7 +2905,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.14k out of 227m repositories</span>
+                                    <span class="gh">ranked 5.14k out of 233m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8414 stars</div>
                             </div>
@@ -3060,7 +3060,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Feb 2025, 13:34:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Feb 2025, 14:05:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
