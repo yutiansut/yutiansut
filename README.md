@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 [QUANTAXIS](https://github.com/quantaxis/quantaxis) 作者
-- 🌱 常用语言 rust/python/javascript/dart/go
+- 🌱 常用语言 rust/cpp/python/javascript/
 - 👯 上海秉昊私募 基金经理 
 
 - 💬 主要方向: 跨市场多资产复合中性策略
