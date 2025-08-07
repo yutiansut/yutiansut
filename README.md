@@ -4,8 +4,8 @@
 - 🌱 常用语言 rust/python/javascript/dart/go
 - 👯 上海秉昊私募 基金经理 
 
-- 💬 主要方向: 量化交易/组合管理/风险控制
-- 📫 微信ID: quantaxispro  QQ: 279336410   
+- 💬 主要方向: 跨市场多资产复合中性策略
+- 📫 微信ID: quantitativeanalysis  QQ: 279336410   
 
 
 
